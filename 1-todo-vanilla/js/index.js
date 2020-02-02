@@ -1,5 +1,5 @@
 //TODO add event to listen to when DOM is ready to access
-document.addEventListener("DOMcontentloaded", (event) => {
+document.addEventListener("DOMContentLoaded", (event) => {
   document.addEventListener("submit", (event) => {
 event.preventDefault();
     
